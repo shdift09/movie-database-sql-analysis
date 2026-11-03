@@ -1,8 +1,5 @@
 -- CDS 302 | Movie Database SQL Analysis
--- Reconstructed for movies_portfolio.db from the original course project materials.
 -- Database: SQLite. All queries are read-only.
--- This portfolio version uses the rebuilt normalized schema, which differs
--- from some draft queries and examples in the original coursework.
 -- Run statements individually in a SQLite client (e.g., DB Browser for SQLite).
 
 -- 1. String operations: titles containing "Star" or "War"
